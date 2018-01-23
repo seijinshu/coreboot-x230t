@@ -1,0 +1,1 @@
+# coreboot-x230t
